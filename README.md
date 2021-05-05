@@ -28,7 +28,7 @@ const iframe = require('puppeteer-get-iframe').iframeAttached;
 
 # how to use
 
-for get iframe from your project, you need pass ``page`` param and a name or id of ``iframe`` want you like get.
+for get iframe from your project, you need pass ``page`` param and a name or id of ``iframe`` you want to get.
 
 ```js
 (async () => {
