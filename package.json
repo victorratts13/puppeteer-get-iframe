@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-get-iframe",
+  "version": "1.0.0",
+  "description": "simple library for obtaining iframe with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/puppeteer-get-iframe.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "puppeteer-stelth",
+    "acces",
+    "axios",
+    "iframe",
+    "puppeteer-iframe"
+  ],
+  "author": "ratts13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorratts13/puppeteer-get-iframe/issues"
+  },
+  "homepage": "https://github.com/victorratts13/puppeteer-get-iframe#readme"
+}
